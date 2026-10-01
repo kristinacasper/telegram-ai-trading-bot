@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+trader_state.db
+*.db
+*.sqlite
+*.sqlite3
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+private_strategy.py
+private_strategy/
+secrets/
